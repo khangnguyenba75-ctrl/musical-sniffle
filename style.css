@@ -1,0 +1,47 @@
+/* Saved Script */
+
+body {
+  margin: 0;
+  font-family: Arial;
+  background: #0f0f0f;
+  color: #fff;
+}
+
+header {
+  padding: 10px;
+  background: #1c1c1c;
+  display: flex;
+  justify-content: space-between;
+}
+
+.stats {
+  display: flex;
+  gap: 15px;
+}
+
+.box {
+  margin: 10px;
+  padding: 10px;
+  background: #1a1a1a;
+  border-radius: 10px;
+}
+
+#chatBox {
+  height: 220px;
+  overflow-y: auto;
+  background: #111;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+video {
+  width: 100%;
+  max-height: 300px;
+  background: black;
+}
+
+button {
+  padding: 8px;
+  margin: 5px;
+  cursor: pointer;
+}
