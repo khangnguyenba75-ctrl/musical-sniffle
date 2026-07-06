@@ -1,0 +1,27 @@
+# Saved Script: LIVE CHAT CONFIG
+
+app:
+  name: LIVE CHAT v1.5 BOOST
+  version: 1.5
+
+boost:
+  default: 1
+  max: 5
+
+stats:
+  watching: 250
+  like: 180
+  visit: 600
+
+intervals:
+  - 100
+  - 1
+  - 501
+  - 245
+  - 237
+  - 915
+  - 135
+  - 5
+
+chat:
+  maxMessages: 70
